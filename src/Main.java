@@ -4,5 +4,7 @@ public class Main {
         System.out.println("第二次尝试！");
         System.out.println("我是分支");
         System.out.println("尝试推送");
+        System.out.println("尝试推送2");
+
     }
 }
